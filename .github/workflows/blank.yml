@@ -24,4 +24,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run check
-        run: chmod +x ci-checker.sh && .ci-checker.sh
+        run: chmod +x ci-checker.sh && ./ci-checker.sh
