@@ -16,4 +16,4 @@
 
 > 实验室git培训PPT项目地址：[GitHub项目地址](https://github.com/aimerneige/marp_git-github)  
 > 廖雪峰git教程：[廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)  
-> git下载：[Git官网](https://git-scm.com/downloads) | [cnpm中国镜像站](https://npm.taobao.org/mirrors/git-for-windows/) | [实验室内网资源站(高速)](file://laji/file/Softwares/Git-2.29.2.2-64-bit.exe)
+> git下载：[Git官网](https://git-scm.com/downloads) | [cnpm中国镜像站](https://npm.taobao.org/mirrors/git-for-windows/) | [实验室内网资源站(高速)](http://laji/Softwares/Git-2.29.2.2-64-bit.exe)
